@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.20",
+        "twbs/bootstrap": "^5.3",
+        "wixel/gump": "^1.5",
+        "mikecao/flight": "^1.3",
+        "twig/twig": "^3.0",
+        "monolog/monolog": "^2.0"
+    }
+}
